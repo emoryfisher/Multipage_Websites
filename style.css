@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: darkcyan;
+
+}
+
+.webpage{
+    text-align: center;
+    color: red;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    transition: 0.10s;
+    margin: 0 20px;
+    line-height: 40px;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+.lor{
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
